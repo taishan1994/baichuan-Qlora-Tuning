@@ -95,8 +95,8 @@ Response:  北京_地名
 
 # 补充
 
-- **如何训练自己的数据？**只需要构建好上述数据所需的格式，然后修改baichuan_qlora里面数据的地址即可，当然也可修改其它的一些参数。
-- **如何使用其它的模型？**其它模型的不同在于两个方面：1、数据的输入格式不一样。2、模型加载的方式不一样。对于chatglm、llama、belle，可以参考之前所做的：https://github.com/taishan1994/qlora-chinese-LLM
+- **如何训练自己的数据？ **只需要构建好上述数据所需的格式，然后修改baichuan_qlora里面数据的地址即可，当然也可修改其它的一些参数。
+- **如何使用其它的模型？** 其它模型的不同在于两个方面：1、数据的输入格式不一样。2、模型加载的方式不一样。对于chatglm、llama、belle，可以参考之前所做的：https://github.com/taishan1994/qlora-chinese-LLM
 
 # 参考
 
